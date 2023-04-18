@@ -263,7 +263,7 @@ that focuses on function components and hooks.
 
 It's important to learn more about class components later on, so that when you
 encounter them in legacy code, you'll still be able to work with them. However,
-for the time being, we'll just be focusing on function components.
+for the time being , we'll just be focusing on function components.
 
 ## Conclusion
 
